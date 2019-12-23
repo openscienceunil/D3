@@ -1,0 +1,23 @@
+.boundary {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
+.feature--canton {
+  fill: #bbb;
+}
+
+.feature--lake {
+  fill: steelblue;
+  fill-opacity: .8;
+}
+
+.feature :hover {
+  fill: orange;
+}
+
+body {
+   background-color : white;
+}

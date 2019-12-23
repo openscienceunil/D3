@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+
+<link rel="stylesheet" type="text/css" href="style_projetd3.css">
+<script src="//d3js.org/d3.v5.min.js"></script>
+<script src="//d3js.org/topojson.v3.min.js"></script>
+<script src="//d3js.org/d3-scale.v3.min.js"></script>
+<script src="legend_projetd3.js"></script>
+<script src="javascript_projetd3.js"></script>
+
+</head>
+<body>
+    
+<!-- Les div sont des containeurs pour les cartes DV1 et DV2. -->
+
+<h1>
+    Pilote de l'enquête longitudinale du Panel Suisse de Ménages 2017 - 2018
+</h1>
+
+<div id = "mapDV1" class="mapdiv">
+    <h2>
+        Participation de la personne de référence du ménage au questionnaire de ménage
+    </h2>
+</div>  
+
+<div id = "mapDV2" class="mapdiv">
+    <h2>
+        Participation de la personne de référence du ménage au questionnaire de ménage et au questionnaire individuel
+    </h2>
+</div>  
+
+<script>readCSV_Original();</script>
+
+</body>
