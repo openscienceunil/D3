@@ -1,6 +1,7 @@
-Projet D3
+Projet D3 pour la validation du cours Visualisation de données, MER Isaac Pante.
 
 Nom: Margarita Rakeviciute, étudiante en master Méthodologie d'Enquête et Opinion Publique.
+Session Janvier 2020.
 
 Les données utilisées pour la visualisation des deux cartes proviennent de l'enquête longitudinale Panel Suisse de Ménages: https://forscenter.ch/projects/swiss-household-panel/?lang=fr
 
