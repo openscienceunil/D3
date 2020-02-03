@@ -33,7 +33,7 @@ Contexte du développement:
 
 Ce projet a été développé dans le cadre du cours Visualisation de données dispensé par Isaac Pante (SLI, Lettres, UNIL).
 
-Sources:
+Références:
 
 JSON Suisse: https://bl.ocks.org/mbostock/raw/10024231/3ad08272674371b4a4bec221d97d7a5fbf20525e/ch.json
 Swiss Cantons & Lakes: https://bl.ocks.org/mbostock/10024231
