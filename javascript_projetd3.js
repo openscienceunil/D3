@@ -1,10 +1,10 @@
 // Les noms des variables:
 
-// datapilot = les données du pilote de l'enquête Panel Suisse de Ménages 2017 - 2018
+// datapilot = les données fictives de l'enquête Panel Suisse de Ménages
 // DV1 = la variable de la participation au questionnaire de ménage.
 // DV2 = la variable de la participation au questionnaire de ménage et au questionnaire individuel.
-// dpdv1 = data pilot DV1
-// dpdv2 = data pilot DV2
+// dpdv1 = datapilot DV1
+// dpdv2 = datapilot DV2
 // colorDV1 = couleurs associées à la variable DV1.
 // colorDV2 = couleurs associées à la variable DV2.
 
@@ -29,7 +29,7 @@ function getDV1DV2() {
   });
 }
 
-// Visualisation de la variable DV1 = participation de la personne de référence du ménage au questionnaire de ménage.
+// Visualisation de la variable DV1 = participation au questionnaire de ménage.
 
 function displayMapDV1(){ 
   var width = 960,
@@ -82,7 +82,7 @@ function displayMapDV1(){
   });
 }
 
-// Visualisation de la variable DV2 = participation de la personne de référence du ménage au questionnaires de ménage et au questionnaire individuel.
+// Visualisation de la variable DV2 = participation au questionnaires de ménage et au questionnaire individuel.
 
 function displayMapDV2(){ 
 var width = 960,

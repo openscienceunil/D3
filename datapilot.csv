@@ -1,27 +1,27 @@
-RegionsID,CANTON17nom,CANTON17code,W1_participation,DV1_participation,DV1_participation_percent,DV2_participation,DV2_participation_percent
-19,Aargau,AG,108,99,61.1,92,56.8
-16,Appenzell Innerrhoden ,AI,2,2,66.7,2,66.7
-15,Appenzell Ausserrhoden ,AR,8,7,58.3,6,50
-2,Bern,BE,164,136,55.3,130,80
-13,Basel-Stadt ,BS,34,27,100,26,51
-12,Basel-Land,BL,36,30,55.5,30,55.5
-10,Fribourg / Freiburg,FR,52,41,52.5,39,50
-25,Genève,GE,58,40,46,34,39.1
-8,Glarus,GL,4,4,66.7,4,100
-18,Graubünden / Grischuns / Grigioni,GR,24,22,61.1,21,58.3
-26,Jura,JU,8,7,80,6,50
-3,Luzern,LU,73,61,55.7,57,52.1
-24,Neuchâtel ,NE,22,17,51.5,17,51.5
-7,Nidwalden,NW,5,4,53.3,3,40
-6,Obwalden,OW,5,4,53.3,4,90
-17,St.Gallen ,SG,61,53,90,48,52.5
-14,Schaffhausen ,SH,10,8,53.3,6,40
-11,Solothurn ,SO,26,19,48.7,18,46.1
-5,Schwyz ,SZ,22,22,66.7,18,54.5
-20,Thurgau ,TG,41,33,80,32,52
-21,Ticino ,TI,61,49,53.5,48,60
-4,Uri,UR,3,2,44.5,2,44.5
-22,Vaud,VD,123,101,54.7,94,70
-23,Valais / Wallis,VS,52,44,56.4,39,50
-9,Zug,ZG,18,15,55.5,12,44.5
-1,Zürich,ZH,207,175,56.3,164,52.8
+RegionsID,CANTON17nom,CANTON17code,DV1_participation_percent,DV2_participation_percent
+19,Aargau,AG,61.1,56.8
+16,Appenzell Innerrhoden ,AI,66.7,66.7
+15,Appenzell Ausserrhoden ,AR,58.3,50
+2,Bern,BE,55.3,66.6
+13,Basel-Stadt ,BS,90.1,51
+12,Basel-Land,BL,55.5,55.5
+10,Fribourg / Freiburg,FR,52.5,50
+25,Genève,GE,46,39.1
+8,Glarus,GL,66.7,100
+18,Graubünden / Grischuns / Grigioni,GR,61.1,58.3
+26,Jura,JU,80,50
+3,Luzern,LU,55.7,52.1
+24,Neuchâtel ,NE,51.5,51.5
+7,Nidwalden,NW,53.3,40
+6,Obwalden,OW,53.3,90
+17,St.Gallen ,SG,85.7,52.5
+14,Schaffhausen ,SH,53.3,40
+11,Solothurn ,SO,48.7,46.1
+5,Schwyz ,SZ,66.7,54.5
+20,Thurgau ,TG,80,52
+21,Ticino ,TI,53.5,60
+4,Uri,UR,44.5,44.5
+22,Vaud,VD,54.7,70
+23,Valais / Wallis,VS,56.4,50
+9,Zug,ZG,55.5,44.5
+1,Zürich,ZH,56.3,52.8
