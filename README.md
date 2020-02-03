@@ -4,7 +4,7 @@ Le projet D3 consiste à illustrer au travers d’une cartographie de la Suisse 
 
 Capture de l’écran :
 
-![Image description](Image_cartes.png)
+![Image description](Image_carte.png)
  
 Procédure d’installation :
 
